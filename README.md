@@ -1,4 +1,13 @@
+This project was bootstrapped with [Check Project Website](https://pkstyle.netlify.app/).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Sample Look of the Website
+
+</br>
+</br>
+<img src="2020-07-09_21-36-56.png">
+</br>
+</br>
 
 ## Available Scripts
 
