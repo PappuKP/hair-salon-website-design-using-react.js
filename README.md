@@ -1,4 +1,5 @@
-This project was bootstrapped with [Check Project Website](https://pkstyle.netlify.app/).
+This project was bootstrapped with [Check Project Website](https://pkstyle.netlify.app/).</br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Sample Look of the Website
