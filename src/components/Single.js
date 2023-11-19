@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
+
 class Single extends Component {
     render() {
         return (
@@ -18,7 +19,7 @@ class Single extends Component {
                     <div class="container py-md-5">
                         <h3 class="heading text-center mb-3 mb-sm-5">Saloon Info</h3>
                         <div class="single-w3pvt-page mt-md-5 mt-4 px-lg-5">
-                            <div class="content-sing-w3ls px-lg-5">
+                            <div class="content-sing-w3ls">
                                 <img class="img-fluid" src="assets/images/ban3.jpg" alt="" />
                                 <h4>Lorem ipsum dolor sit amet</h4>
                                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod magna .Lorem ipsum dolor sit amet, consectetuer adipiscing elit,Sed diam nonummy nibh euismod magna .Integer pulvinar leo id viverra feugiat. Pellentesque Libero Justo, Semper At Tempus Vel, Ultrices In Sed Ligula. Nulla Uter Sollicitudin Velit.</p>
@@ -48,9 +49,6 @@ class Single extends Component {
                                         </a>
                                     </li>
                                 </ul>
-
-
-
                             </div>
                             <div class="row my-lg-5 mt-3 mx-0">
                                 <div class="col-lg-6 text-info pl-0">
@@ -97,8 +95,6 @@ class Single extends Component {
                             <div class="comment-bottom w3pvt_mail_grid_right p-0 my-lg-5 my-4">
                                 <h4 class="leave-w3ls mb-5">Leave a Reply</h4>
                                 <form action="#" class="w3ls-contact-fm" method="post">
-
-
                                     <div class="form-group">
                                         <label>Write Message</label>
                                         <textarea class="form-control" name="Message" placeholder="" required=""></textarea>
@@ -117,14 +113,12 @@ class Single extends Component {
                                     <button type="submit" class="btn read mt-3">Submit</button>
                                 </form>
                             </div>
-
                         </div>
-
-
                     </div>
                 </section>
             </div>
         )
     }
 }
+
 export default Single
